@@ -51,7 +51,7 @@ const Weather = () => {
     sunrise,
     sunset
   }
-//   const API_KEY = "fe6b4d0897565dd4f8123477f40a0730";
+//   const API_KEY = "0fe6b4d0897565dd4f8123477f40a0730";
   const handleChange= (e)=>{
     console.log(e.target.value)
     setSearchCity(e.target.value)
